@@ -1,0 +1,16 @@
+/* CSS here */
+h1{
+  color: lightpink;
+  background-color: indianred;
+  
+}
+h2{
+  color: darkblue; 
+  background-color: lightgoldenrodyellow;
+}
+body{
+  text-align: center;
+  background-size: cover;
+  background-image:url("assets/images.jpeg"); 
+}
+  
